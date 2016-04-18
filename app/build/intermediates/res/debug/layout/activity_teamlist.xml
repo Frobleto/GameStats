@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TabHost
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tabHost"
+        android:layout_weight="1">
+
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"></TabWidget>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <TabWidget
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"></TabWidget>
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <RelativeLayout
+                    android:id="@+id/tabConferenceW"
+                    android:layout_width="334dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Dallas Mavericks"
+                        android:id="@+id/mavericks"
+                        android:layout_row="0"
+                        android:layout_column="6"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="76dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentStart="true" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Houston Rockets"
+                        android:id="@+id/rockets"
+                        android:layout_marginEnd="23dp"
+                        android:layout_above="@+id/grizzlies"
+                        android:layout_alignParentEnd="true" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Memphis Grizzlies"
+                        android:id="@+id/grizzlies"
+                        android:layout_below="@+id/mavericks"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="New Orleans Pelicans"
+                        android:id="@+id/pelicans"
+                        android:layout_below="@+id/grizzlies"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="San Antonio Spurs"
+                        android:id="@+id/spurs"
+                        android:layout_below="@+id/rockets"
+                        android:layout_marginTop="16dp"
+                        android:layout_alignStart="@+id/rockets" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Denver Nuggets"
+                        android:id="@+id/nuggets"
+                        android:layout_below="@+id/spurs"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Minnesota Timberwolves"
+                        android:id="@+id/timberwolves"
+                        android:layout_below="@+id/pelicans"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Oklahoma City Thunder"
+                        android:id="@+id/textView7"
+                        android:layout_below="@+id/nuggets"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Portland Trail Blazers"
+                        android:id="@+id/textView8"
+                        android:layout_below="@+id/timberwolves"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Utah Jazz"
+                        android:id="@+id/textView9"
+                        android:layout_below="@+id/textView7"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Golden State Warriors"
+                        android:id="@+id/textView10"
+                        android:layout_below="@+id/textView8"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Los Angeles Clippers"
+                        android:id="@+id/textView11"
+                        android:layout_below="@+id/textView9"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Los Angeles Lakers"
+                        android:id="@+id/textView12"
+                        android:layout_below="@+id/textView10"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Phoenix Suns"
+                        android:id="@+id/textView13"
+                        android:layout_below="@+id/textView11"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Sacramento Kings"
+                        android:id="@+id/textView14"
+                        android:layout_below="@+id/textView12"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="16dp" />
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/tabConferenceE"
+                    android:layout_width="334dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:focusableInTouchMode="false"
+                    android:layout_gravity="center_horizontal">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Boston Celtics"
+                        android:id="@+id/celticsText"
+                        android:layout_row="0"
+                        android:layout_column="6"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="0dp"
+                        android:layout_marginTop="76dp"
+                        android:layout_alignParentTop="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="true" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Brooklyn Nets"
+                        android:id="@+id/netsText"
+                        android:layout_alignParentEnd="false"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginTop="76dp"
+                        android:layout_marginLeft="200dp"
+                        android:layout_alignParentRight="false"
+                        android:layout_alignBaseline="@+id/celticsText" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="New York Knicks"
+                        android:id="@+id/knicksText"
+                        android:layout_below="@+id/celticsText"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Philadelphia 76ers"
+                        android:id="@+id/sixersText"
+                        android:layout_alignParentStart="false"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_alignWithParentIfMissing="false"
+                        android:layout_alignParentBottom="false"
+                        android:layout_below="@+id/netsText"
+                        android:layout_marginLeft="200dp"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Toronto Raptors"
+                        android:id="@+id/raptorsText"
+                        android:layout_below="@+id/knicksText"
+                        android:layout_alignStart="@+id/rockets"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Chicago Bulls"
+                        android:id="@+id/bullsText"
+                        android:layout_below="@+id/sixersText"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_alignParentBottom="false"
+                        android:layout_marginLeft="200dp"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Cleveland Cavaliers"
+                        android:id="@+id/cavaliersText"
+                        android:layout_below="@+id/raptorsText"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Detroit Pistons"
+                        android:id="@+id/pistonsText"
+                        android:layout_below="@+id/bullsText"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginLeft="200dp"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Indiana Pacers"
+                        android:id="@+id/pacersText"
+                        android:layout_below="@+id/cavaliersText"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_alignParentBottom="false"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Milwaukee Bucks"
+                        android:id="@+id/bucksText"
+                        android:layout_below="@+id/pistonsText"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginLeft="200dp"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Atlanta Hawks"
+                        android:id="@+id/hawksText"
+                        android:layout_below="@+id/pacersText"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Charlotte Hornets"
+                        android:id="@+id/hornetsText"
+                        android:layout_below="@+id/bucksText"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginLeft="200dp"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Miami Heat"
+                        android:id="@+id/heatText"
+                        android:layout_below="@+id/hawksText"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Orlando Magic"
+                        android:id="@+id/magicText"
+                        android:layout_below="@+id/hornetsText"
+                        android:layout_alignEnd="@+id/spurs"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginLeft="200dp"
+                        android:layout_marginTop="16dp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textAppearance="?android:attr/textAppearanceSmall"
+                        android:text="Washington Wizards"
+                        android:id="@+id/wizardsText"
+                        android:layout_below="@+id/heatText"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentLeft="false"
+                        android:layout_alignParentTop="false"
+                        android:layout_marginTop="16dp" />
+                </RelativeLayout>
+
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+</LinearLayout>
+<!-- From: file:/C:/Users/Luis/Documents/Game%20Stats/app/src/main/res/layout/activity_teamlist.xml -->

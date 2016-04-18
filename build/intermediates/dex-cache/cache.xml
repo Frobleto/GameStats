@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-f2f890cf3ba34729cb072462408418cb750df68a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
+        <dex dex="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\pre-dexed\debug\classes-5d03add8f6171163d5f27ae202321b51c7581e32.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
+        <dex dex="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-6a4cd25dfbfc5fc756d283684b34af47d828ba71.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\pre-dexed\debug\classes-a1255f9f9ee8c31ae7ff7e23e22371cf728f8571.jar" />
+    </item>
+    <item
+        jar="C:\Users\Luis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Luis\Documents\Game Stats\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-e437157d2c18bfbf0d18220dad4a63406e1c38d6.jar" />
+    </item>
+
+</items>

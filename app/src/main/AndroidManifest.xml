@@ -27,7 +27,10 @@
             android:label="@string/title_activity_d" />
         <activity
             android:name=".Players"
-            android:label="@string/title_activity_players"></activity>
+            android:label="@string/title_activity_players" />
+        <activity
+            android:name=".TeamList"
+            android:label="@string/title_activity_team_list"></activity>
     </application>
 
 </manifest>

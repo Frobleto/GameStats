@@ -34,6 +34,9 @@
         <activity
             android:name="com.example.luis.gamestats.Players"
             android:label="@string/title_activity_players" />
+        <activity
+            android:name="com.example.luis.gamestats.TeamList"
+            android:label="@string/title_activity_team_list" />
     </application>
 
 </manifest>

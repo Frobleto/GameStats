@@ -24,7 +24,8 @@
         android:text="Teams"
         android:id="@+id/button5"
         android:layout_below="@+id/button4"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:onClick="buttonOnClickTeams"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -51,4 +52,4 @@
         android:layout_alignParentStart="true" />
 
 </RelativeLayout>
-<!-- From: file:/C:/Users/Luis/OneDrive/Documents/GameStats/app/src/main/res/layout/activity_basketball.xml -->
+<!-- From: file:/C:/Users/Luis/Documents/Game%20Stats/app/src/main/res/layout/activity_basketball.xml -->

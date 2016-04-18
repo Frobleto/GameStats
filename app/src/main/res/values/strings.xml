@@ -6,4 +6,7 @@
     <string name="title_activity_basketball">Basketball Info</string>
     <string name="title_activity_d">DActivity</string>
     <string name="title_activity_players">Players</string>
+    <string name="title_activity_team_list">TeamList</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="string_lakers">Los Angeles Lakers</string>
 </resources>

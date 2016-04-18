@@ -15,6 +15,9 @@ ADDED from AndroidManifest.xml:2:1
 		INJECTED from AndroidManifest.xml:0:0
 application
 ADDED from AndroidManifest.xml:5:5
+MERGED from com.android.support:support-v4:23.2.1:22:5
+MERGED from com.android.support:support-v13:23.2.1:22:5
+MERGED from com.android.support:support-v4:23.2.1:22:5
 	android:label
 		ADDED from AndroidManifest.xml:8:9
 	android:allowBackup
@@ -63,8 +66,17 @@ ADDED from AndroidManifest.xml:28:9
 		ADDED from AndroidManifest.xml:30:13
 	android:name
 		ADDED from AndroidManifest.xml:29:13
+activity#com.example.luis.gamestats.TeamList
+ADDED from AndroidManifest.xml:31:9
+	android:label
+		ADDED from AndroidManifest.xml:33:13
+	android:name
+		ADDED from AndroidManifest.xml:32:13
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.android.support:support-v4:23.2.1:20:5
+MERGED from com.android.support:support-v13:23.2.1:20:5
+MERGED from com.android.support:support-v4:23.2.1:20:5
 	android:targetSdkVersion
 		INJECTED from AndroidManifest.xml:0:0
 		INJECTED from AndroidManifest.xml:0:0
