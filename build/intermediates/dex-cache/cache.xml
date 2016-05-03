@@ -2,39 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/pre-dexed/debug/classes-301b9e40bda9b67dbf6b3597148122f0a04adcc3.jar" />
-    </item>
-    <item
-        jar="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
+        jar="C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="bd48446a8b4b2fdcac0e38f49b5d6dc3abb1eefa">
-        <dex dex="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-66dff1fafd86b7d2c07861c7dc475795c78ce392.jar" />
+        <dex dex="C:\Users\Luis\Documents\GameStats\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_33d64533645a0ae458040ae06665349b86a6bd31\classes.dex" />
     </item>
     <item
-        jar="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-c18156f9c2e34608a10cb243d619f9cfe06d8ebf.jar" />
-    </item>
-    <item
-        jar="/Users/jr_raiders_23/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
-        jumboMode="false"
+        jar="C:\Users\Luis\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-5761692a76174b716f447601a58a2070ffb53360.jar" />
+        <dex dex="C:\Users\Luis\Documents\GameStats\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_e437157d2c18bfbf0d18220dad4a63406e1c38d6\classes.dex" />
     </item>
     <item
-        jar="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.1/jars/classes.jar"
-        jumboMode="false"
+        jar="C:\Users\Luis\Documents\GameStats\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c616f89b0e257098f5dc41a17f13858e3dd850ab">
+        <dex dex="C:\Users\Luis\Documents\GameStats\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b80a680e5f399bbce1d61807ac175b115fa76dcc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Luis\Documents\GameStats\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_4353c7eebd50cc7a4251aeb0efa655af1594dc83\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GameStats\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="bb16fa5f9f30b0debb90418c5088e2fc6262ad83">
+        <dex dex="C:\Users\Luis\Documents\GameStats\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_af60237ae5c3ea0604ed483b1b8c3f45862be800\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Luis\Documents\GameStats\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_b136c123cad9c38c91627476bf5b317d7ec9a6b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\jars\classes.jar"
+        jumboMode="true"
         revision="23.0.1"
         sha1="b95d10913c24f217dca25ccfb8293a04ebfed3a8">
-        <dex dex="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/pre-dexed/debug/classes-0a6f107e12e02806f827d85da502b9f1a403c368.jar" />
+        <dex dex="C:\Users\Luis\Documents\GameStats\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.2.1_7061057ab2b0b2852c622d64c907a96d010188ef\classes.dex" />
     </item>
 
 </items>

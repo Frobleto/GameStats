@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_title.xml",
+        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\layout\\activity_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_d.xml",
+        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\layout\\activity_d.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_players.xml",
+        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\layout\\activity_players.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_basketball.xml",
+        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\layout\\activity_basketball.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_teamlist.xml",
+        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\layout\\activity_teamlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_screen.xml",
+        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\layout\\welcome_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_b.xml",
+        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\layout\\activity_b.xml"
+    }
+]
