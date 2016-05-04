@@ -31,8 +31,8 @@
             android:name="com.example.luis.gamestats.Basketball"
             android:label="@string/title_activity_basketball" />
         <activity
-            android:name="com.example.luis.gamestats.DActivity"
-            android:label="@string/title_activity_d" />
+            android:name="com.example.luis.gamestats.Rules"
+            android:label="@string/title_activity_rules" />
         <activity
             android:name="com.example.luis.gamestats.Players"
             android:label="@string/title_activity_players" />

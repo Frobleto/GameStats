@@ -23,7 +23,7 @@ public class Splash extends Activity {
                 try {
 
                     // amount of time for splash screen to run in milliseconds
-                    sleep(6000);
+                    sleep(3000);
 
                     //intent to start title screen after spplash
                     Intent startMain = new Intent(getApplicationContext(), Title.class);

@@ -15,55 +15,57 @@ public final class R {
         public static final int activity_vertical_margin=0x7f060001;
     }
     public static final class drawable {
-        public static final int sports1=0x7f020000;
-        public static final int sports2=0x7f020001;
-        public static final int sports3=0x7f020002;
+        public static final int basketball=0x7f020000;
+        public static final int sports1=0x7f020001;
+        public static final int sports2=0x7f020002;
+        public static final int sports3=0x7f020003;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a002b;
-        public static final int bucksText=0x7f0a0020;
-        public static final int bullsText=0x7f0a001c;
-        public static final int button=0x7f0a0026;
-        public static final int button2=0x7f0a0027;
-        public static final int button3=0x7f0a0028;
+        public static final int action_settings=0x7f0a002c;
+        public static final int bucksText=0x7f0a0021;
+        public static final int bullsText=0x7f0a001d;
+        public static final int button=0x7f0a0027;
+        public static final int button2=0x7f0a0028;
+        public static final int button3=0x7f0a0029;
         public static final int button4=0x7f0a0000;
         public static final int button5=0x7f0a0001;
         public static final int button6=0x7f0a0002;
         public static final int button7=0x7f0a0003;
         public static final int button8=0x7f0a0004;
-        public static final int cavaliersText=0x7f0a001d;
-        public static final int celticsText=0x7f0a0017;
-        public static final int grizzlies=0x7f0a0009;
-        public static final int hawksText=0x7f0a0021;
-        public static final int heatText=0x7f0a0023;
-        public static final int hornetsText=0x7f0a0022;
-        public static final int imageView=0x7f0a002a;
-        public static final int knicksText=0x7f0a0019;
-        public static final int magicText=0x7f0a0024;
-        public static final int mavericks=0x7f0a0007;
-        public static final int netsText=0x7f0a0018;
-        public static final int nuggets=0x7f0a000c;
-        public static final int pacersText=0x7f0a001f;
-        public static final int pelicans=0x7f0a000a;
-        public static final int pistonsText=0x7f0a001e;
-        public static final int raptorsText=0x7f0a001b;
-        public static final int rockets=0x7f0a0008;
-        public static final int sixersText=0x7f0a001a;
-        public static final int spurs=0x7f0a000b;
-        public static final int tabConferenceE=0x7f0a0016;
-        public static final int tabConferenceW=0x7f0a0006;
-        public static final int tabHost=0x7f0a0005;
-        public static final int textView=0x7f0a0029;
-        public static final int textView10=0x7f0a0011;
-        public static final int textView11=0x7f0a0012;
-        public static final int textView12=0x7f0a0013;
-        public static final int textView13=0x7f0a0014;
-        public static final int textView14=0x7f0a0015;
-        public static final int textView7=0x7f0a000e;
-        public static final int textView8=0x7f0a000f;
-        public static final int textView9=0x7f0a0010;
-        public static final int timberwolves=0x7f0a000d;
-        public static final int wizardsText=0x7f0a0025;
+        public static final int cavaliersText=0x7f0a001e;
+        public static final int celticsText=0x7f0a0018;
+        public static final int grizzlies=0x7f0a000a;
+        public static final int hawksText=0x7f0a0022;
+        public static final int heatText=0x7f0a0024;
+        public static final int hornetsText=0x7f0a0023;
+        public static final int imageView=0x7f0a002b;
+        public static final int knicksText=0x7f0a001a;
+        public static final int magicText=0x7f0a0025;
+        public static final int mavericks=0x7f0a0008;
+        public static final int netsText=0x7f0a0019;
+        public static final int nuggets=0x7f0a000d;
+        public static final int pacersText=0x7f0a0020;
+        public static final int pelicans=0x7f0a000b;
+        public static final int pistonsText=0x7f0a001f;
+        public static final int raptorsText=0x7f0a001c;
+        public static final int rockets=0x7f0a0009;
+        public static final int sixersText=0x7f0a001b;
+        public static final int spurs=0x7f0a000c;
+        public static final int tabConferenceE=0x7f0a0017;
+        public static final int tabConferenceW=0x7f0a0007;
+        public static final int tabHost=0x7f0a0006;
+        public static final int textView=0x7f0a002a;
+        public static final int textView10=0x7f0a0012;
+        public static final int textView11=0x7f0a0013;
+        public static final int textView12=0x7f0a0014;
+        public static final int textView13=0x7f0a0015;
+        public static final int textView14=0x7f0a0016;
+        public static final int textView2=0x7f0a0005;
+        public static final int textView7=0x7f0a000f;
+        public static final int textView8=0x7f0a0010;
+        public static final int textView9=0x7f0a0011;
+        public static final int timberwolves=0x7f0a000e;
+        public static final int wizardsText=0x7f0a0026;
     }
     public static final class integer {
         public static final int numTeamsW=0x7f070000;
@@ -71,8 +73,8 @@ public final class R {
     public static final class layout {
         public static final int activity_b=0x7f040000;
         public static final int activity_basketball=0x7f040001;
-        public static final int activity_d=0x7f040002;
-        public static final int activity_players=0x7f040003;
+        public static final int activity_players=0x7f040002;
+        public static final int activity_rules=0x7f040003;
         public static final int activity_teamlist=0x7f040004;
         public static final int activity_title=0x7f040005;
         public static final int welcome_screen=0x7f040006;
@@ -91,8 +93,8 @@ public final class R {
         public static final int string_lakers=0x7f080003;
         public static final int title_activity_b=0x7f080004;
         public static final int title_activity_basketball=0x7f080005;
-        public static final int title_activity_d=0x7f080006;
-        public static final int title_activity_players=0x7f080007;
+        public static final int title_activity_players=0x7f080006;
+        public static final int title_activity_rules=0x7f080007;
         public static final int title_activity_team_list=0x7f080008;
     }
     public static final class style {

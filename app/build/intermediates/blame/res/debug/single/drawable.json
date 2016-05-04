@@ -1,14 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sports1.jpg",
-        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\drawable\\sports1.jpg"
+        "merged": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/res/merged/debug/drawable/sports3.jpg",
+        "source": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/res/drawable/sports3.jpg"
     },
     {
-        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sports2.jpg",
-        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\drawable\\sports2.jpg"
+        "merged": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/res/merged/debug/drawable/basketball.png",
+        "source": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/res/drawable/basketball.png"
     },
     {
-        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sports3.jpg",
-        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\drawable\\sports3.jpg"
+        "merged": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/res/merged/debug/drawable/sports1.jpg",
+        "source": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/res/drawable/sports1.jpg"
+    },
+    {
+        "merged": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/res/merged/debug/drawable/sports2.jpg",
+        "source": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/res/drawable/sports2.jpg"
     }
 ]

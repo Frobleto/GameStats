@@ -9,10 +9,10 @@
     <string name="string_lakers">Los Angeles Lakers</string>
     <string name="title_activity_b">BActivity</string>
     <string name="title_activity_basketball">Basketball Info</string>
-    <string name="title_activity_d">DActivity</string>
     <string name="title_activity_players">Players</string>
+    <string name="title_activity_rules">Rules</string>
     <string name="title_activity_team_list">TeamList</string>
-    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
         <!-- Customize your theme here. -->
     </style>
 </resources>

@@ -1,89 +1,89 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:2:1-39:12
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
 application
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:5:5-37:19
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v13:23.2.1] C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:22:5-20
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:5:5-37:19
+MERGED from [com.android.support:support-v4:23.2.1] /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:23.2.1] /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.2.1] /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:22:5-20
 	android:label
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:8:9-41
 	android:allowBackup
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:9:9-40
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:9:9-40
 activity#com.example.luis.gamestats.Splash
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:10:9-18:20
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:10:9-18:20
 	android:label
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:12:13-45
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:12:13-45
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:11:13-35
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:11:13-35
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:16:27-74
 activity#com.example.luis.gamestats.Title
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:20:9-42
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:20:9-42
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:20:19-40
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:20:19-40
 activity#com.example.luis.gamestats.BActivity
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:22:9-24:56
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:22:9-24:56
 	android:label
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:24:13-53
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:24:13-53
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:23:13-38
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:23:13-38
 activity#com.example.luis.gamestats.Basketball
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:25:9-27:65
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:25:9-27:65
 	android:label
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:27:13-62
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:27:13-62
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:26:13-39
-activity#com.example.luis.gamestats.DActivity
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:28:9-30:56
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:26:13-39
+activity#com.example.luis.gamestats.Rules
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:28:9-30:60
 	android:label
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:30:13-53
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:30:13-57
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:29:13-38
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:29:13-34
 activity#com.example.luis.gamestats.Players
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:31:9-33:62
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:31:9-33:62
 	android:label
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:33:13-59
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:33:13-59
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:32:13-36
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:32:13-36
 activity#com.example.luis.gamestats.TeamList
-ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:34:9-36:73
+ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:34:9-36:73
 	android:label
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:36:13-61
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:36:13-61
 	android:name
-		ADDED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml:35:13-37
+		ADDED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml:35:13-37
 uses-sdk
-INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v13:23.2.1] C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v13\23.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:23.2.1] C:\Users\Luis\Documents\GameStats\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\AndroidManifest.xml:20:5-43
+INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v4:23.2.1] /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v13:23.2.1] /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v13/23.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:23.2.1] /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/AndroidManifest.xml:20:5-43
 	android:targetSdkVersion
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Luis\Documents\GameStats\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/AndroidManifest.xml

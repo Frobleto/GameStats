@@ -26,8 +26,8 @@
             android:name=".Basketball"
             android:label="@string/title_activity_basketball" />
         <activity
-            android:name=".DActivity"
-            android:label="@string/title_activity_d" />
+            android:name=".Rules"
+            android:label="@string/title_activity_rules" />
         <activity
             android:name=".Players"
             android:label="@string/title_activity_players" />

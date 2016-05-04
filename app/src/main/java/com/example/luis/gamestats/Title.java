@@ -35,7 +35,7 @@ public class Title extends Activity {
     }
     public void buttonOnClickC(View v){
         Button button=(Button) v;
-        startActivity(new Intent(getApplicationContext(), DActivity.class));
+        startActivity(new Intent(getApplicationContext(), Rules.class));
     }
 
 

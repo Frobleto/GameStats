@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="armeabi-v7a,armeabi"
+    abi="x86"
     api-level="23"
-    density="xxhdpi"
+    density="560dpi"
     format="7"
-    timestamp="1429156916112538" >
+    timestamp="4925901782993" >
 
     <task
         name="javac"
-        duration="1847" />
+        duration="8140" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="630" />
+        duration="1050" />
     <task
         name="verifier"
-        duration="50" />
+        duration="11" />
 
     <artifact
-        location="C:\Users\Luis\Documents\GameStats\app\build\outputs\apk\app-debug.apk"
+        location="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="1429156916112538" >
+    <build timestamp="4925901782993" >
         <artifact
-            location="C:\Users\Luis\Documents\GameStats\app\build\outputs\apk\app-debug.apk"
+            location="/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 

@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_team_list.xml",
-        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\menu\\menu_team_list.xml"
+        "merged": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/res/merged/debug/menu/menu_team_list.xml",
+        "source": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/res/menu/menu_team_list.xml"
     },
     {
-        "merged": "C:\\Users\\Luis\\Documents\\GameStats\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_title.xml",
-        "source": "C:\\Users\\Luis\\Documents\\GameStats\\app\\src\\main\\res\\menu\\menu_title.xml"
+        "merged": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/build/intermediates/res/merged/debug/menu/menu_title.xml",
+        "source": "/Users/jr_raiders_23/Documents/MobileComp/GameStats/app/src/main/res/menu/menu_title.xml"
     }
 ]
